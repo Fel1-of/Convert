@@ -1,0 +1,12 @@
+
+.left-element {
+    display: inline-block;
+    position: center;
+    left: 0;
+}
+
+.right-element {
+    display: inline-block;
+    position: center;
+    right: 0;
+}
